@@ -1,42 +1,42 @@
 {
   "project_info": {
-    "project_number": "721918687559",
-    "firebase_url": "https://seriesmanager-e73ba-default-rtdb.firebaseio.com",
-    "project_id": "seriesmanager-e73ba",
-    "storage_bucket": "seriesmanager-e73ba.appspot.com"
+    "project_number": "589738322097",
+    "firebase_url": "https://seriesmanager-1c2e9-default-rtdb.firebaseio.com",
+    "project_id": "seriesmanager-1c2e9",
+    "storage_bucket": "seriesmanager-1c2e9.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:721918687559:android:bb9581d25ab3e2725af462",
+        "mobilesdk_app_id": "1:589738322097:android:a6cc1f1801e86fce289a90",
         "android_client_info": {
           "package_name": "br.edu.ifsp.scl.ads.pdm.seriesmanager"
         }
       },
       "oauth_client": [
         {
-          "client_id": "721918687559-md5eo8psthfg8r0ahnptrmrbns6ghtib.apps.googleusercontent.com",
+          "client_id": "589738322097-l4p1j2tdbho2dbonqp7uo5gq3s91asga.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "br.edu.ifsp.scl.ads.pdm.seriesmanager",
-            "certificate_hash": "7e043fa75917ef4e2df9633d1b72343be31282bb"
+            "certificate_hash": "f933ad1be5bc222dd2d217294c8af0574ff77952"
           }
         },
         {
-          "client_id": "721918687559-iovp6cmjbqasbf8ja5nroc3ssd313lu7.apps.googleusercontent.com",
+          "client_id": "589738322097-sr2hdmcpnejbogd753j3kp16or4cnrk0.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBOYjQsVn2-EbMcJlq3IYF9DxgjAO9dNec"
+          "current_key": "AIzaSyADBUfVcCEk7T_2uTkK5tFHy_UsCDllXkY"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "721918687559-iovp6cmjbqasbf8ja5nroc3ssd313lu7.apps.googleusercontent.com",
+              "client_id": "589738322097-sr2hdmcpnejbogd753j3kp16or4cnrk0.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
